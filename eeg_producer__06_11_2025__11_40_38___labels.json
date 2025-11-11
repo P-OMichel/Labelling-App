@@ -253,6 +253,78 @@
       "start": 1188.537744870273,
       "end": 1199.3084824075024,
       "class": "IES (large)"
+    },
+    {
+      "id": 43,
+      "start": 381.0389614341574,
+      "end": 382.10344767123956,
+      "class": "large artifacts"
+    },
+    {
+      "id": 44,
+      "start": 382.8162732764285,
+      "end": 384.3654809250391,
+      "class": "large artifacts"
+    },
+    {
+      "id": 45,
+      "start": 385.4822255817124,
+      "end": 391.21508661498814,
+      "class": "large artifacts"
+    },
+    {
+      "id": 46,
+      "start": 414.0204003120794,
+      "end": 416.31302515042546,
+      "class": "ground check"
+    },
+    {
+      "id": 47,
+      "start": 431.8367961981151,
+      "end": 431.91046704843455,
+      "class": "all freqs artifact"
+    },
+    {
+      "id": 48,
+      "start": 449.7354740465131,
+      "end": 453.48018455910574,
+      "class": "large artifacts"
+    },
+    {
+      "id": 49,
+      "start": 692.0686416976329,
+      "end": 710.4371463888402,
+      "class": "large artifacts"
+    },
+    {
+      "id": 50,
+      "start": 763.057258059093,
+      "end": 764.042697046368,
+      "class": "all freqs artifact"
+    },
+    {
+      "id": 51,
+      "start": 758.7743886143982,
+      "end": 760.0251380982471,
+      "class": "all freqs artifact"
+    },
+    {
+      "id": 52,
+      "start": 755.0221401628513,
+      "end": 756.2728896467003,
+      "class": "all freqs artifact"
+    },
+    {
+      "id": 53,
+      "start": 767.9939283703452,
+      "end": 768.6193031122697,
+      "class": "all freqs artifact"
+    },
+    {
+      "id": 54,
+      "start": 772.1441425667531,
+      "end": 772.7695173086776,
+      "class": "all freqs artifact"
     }
   ]
 }
