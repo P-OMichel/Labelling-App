@@ -34,7 +34,7 @@ class SpectrogramViewer(QtWidgets.QMainWindow):
         self.segment_items = []
 
         # Labelling holders
-        self.label_classes = [ "IES (large)", "IES (BS)", "hf and IES", "IES (other)", "alpha-supp", "eye artifact", "lf artifacts", "hf artifact", "all freqs artifact", "large artifacts", "ground check", "shallow signal", "awake hf signal"]
+        self.label_classes = [ "IES (large)", "IES (BS)", "hf and IES", "IES (other)", "alpha-supp", "eye artifact", "lf artifacts", "hf artifact", "all freqs artifact", "large artifacts", "ground check", "shallow signal", "awake hf signal", "OK", "heavy without suppressions", "high gamma signal"]
         self.class_colors = {
             "IES (large)": (255, 165, 0, 80),   # orange semi-transparent
             "IES (BS)": (255, 0, 0, 80),  # red
@@ -48,7 +48,10 @@ class SpectrogramViewer(QtWidgets.QMainWindow):
             "large artifacts": (0, 255, 100, 80),     # green
             "ground check": (0, 0, 0, 80),     # green
             "shallow signal": (100, 100, 0, 80),     # green
-            "awake hf signal": (150, 150, 0, 80)
+            "awake hf signal": (150, 150, 0, 80),
+            "OK": (100, 150, 0, 80),
+            "heavy without suppressions" : (125, 175, 0, 80),
+            "high gamma signal" : (150, 200, 0, 80)
         }
 
         self.labels = []   # list of dicts: {id, start, end, cls}

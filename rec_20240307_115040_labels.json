@@ -1981,6 +1981,180 @@
       "start": 247.72257830265062,
       "end": 248.9987858279013,
       "class": "alpha-supp"
+    },
+    {
+      "id": 337,
+      "start": 3731.8240821331988,
+      "end": 3738.652342885973,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 338,
+      "start": 3738.70653543163,
+      "end": 3744.3425601799518,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 339,
+      "start": 3744.3967527256086,
+      "end": 3751.98370911758,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 340,
+      "start": 3752.037901663237,
+      "end": 3760.0042058748068,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 341,
+      "start": 3760.0042058748068,
+      "end": 3768.729205725574,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 342,
+      "start": 3768.8917833625446,
+      "end": 3774.744578293494,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 343,
+      "start": 3774.798770839151,
+      "end": 3780.4889881331296,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 344,
+      "start": 3793.386813999481,
+      "end": 3800.594422571854,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 345,
+      "start": 3800.8653853001388,
+      "end": 3810.8910062466725,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 346,
+      "start": 3811.1077764293,
+      "end": 3819.399235914812,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 347,
+      "start": 3819.5076210061256,
+      "end": 3826.8236146698123,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 348,
+      "start": 3832.1344841441924,
+      "end": 3839.7756330818206,
+      "class": "high gamma signal"
+    },
+    {
+      "id": 349,
+      "start": 35.995537829746965,
+      "end": 37.49376210388775,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 350,
+      "start": 35.02050298467122,
+      "end": 35.93608448553503,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 351,
+      "start": 73.03497127378296,
+      "end": 74.05756879422826,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 352,
+      "start": 74.12891280728257,
+      "end": 75.43688637994516,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 353,
+      "start": 75.65091841910814,
+      "end": 76.64973460186866,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 354,
+      "start": 63.54621753755801,
+      "end": 64.46179903842182,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 355,
+      "start": 112.74980520735616,
+      "end": 113.93887209159489,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 356,
+      "start": 115.25873633309986,
+      "end": 116.245661847018,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 357,
+      "start": 126.80457577905776,
+      "end": 128.255237377829,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 358,
+      "start": 130.3717764317739,
+      "end": 131.21601391958336,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 359,
+      "start": 131.27546726379532,
+      "end": 132.2980647842406,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 360,
+      "start": 138.31474321848847,
+      "end": 139.44435675851526,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 361,
+      "start": 148.2315610330394,
+      "end": 149.61087861875632,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 362,
+      "start": 155.48486902689558,
+      "end": 156.62637323576473,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 363,
+      "start": 180.43149883325756,
+      "end": 181.8821604320288,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 364,
+      "start": 183.42794738153913,
+      "end": 185.021297006419,
+      "class": "awake hf signal"
+    },
+    {
+      "id": 365,
+      "start": 186.88813201467377,
+      "end": 187.95829221048862,
+      "class": "awake hf signal"
     }
   ]
 }
