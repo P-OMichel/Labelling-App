@@ -769,6 +769,36 @@
       "start": 18.93089197224022,
       "end": 27.959923417679683,
       "class": "large artifacts"
+    },
+    {
+      "id": 136,
+      "start": 2376.2190128007014,
+      "end": 2380.933083077408,
+      "class": "shallow signal"
+    },
+    {
+      "id": 137,
+      "start": 2369.5535366885215,
+      "end": 2374.684199222239,
+      "class": "shallow signal"
+    },
+    {
+      "id": 138,
+      "start": 2364.4009482465403,
+      "end": 2369.509684871994,
+      "class": "shallow signal"
+    },
+    {
+      "id": 139,
+      "start": 2360.147322043373,
+      "end": 2364.335170521749,
+      "class": "shallow signal"
+    },
+    {
+      "id": 140,
+      "start": 2354.073845454315,
+      "end": 2360.0376925020546,
+      "class": "shallow signal"
     }
   ]
 }
