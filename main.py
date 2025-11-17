@@ -14,7 +14,7 @@ class SpectrogramViewer(QtWidgets.QMainWindow):
         self.resize(1200, 800)
 
         # Fixed sampling frequency as requested
-        self.fs = 128.0
+        self.fs = 250.0
 
         # Data holders
         self.signal = None  # 1D numpy array
